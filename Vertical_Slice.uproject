@@ -8,5 +8,8 @@
 			"Name": "FMODStudio",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
 	]
 }
